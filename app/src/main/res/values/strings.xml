@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">macropayColliGt</string>
+    <string name="txt_login_user">Usuario</string>
+    <string name="txt_login_pass">Contraseña</string>
+    <string name="txt_login_btn">Iniciar sesión</string>
+    <string name="txt_login_welcome">Bienvenido</string>
+    <string name="txt_home_welcome">Hola, bienvenido</string>
+    <string name="img_domain">https://image.tmdb.org/t/p/w600_and_h900_bestv2</string>
+    <string name="base_url">https://api.themoviedb.org/3/movie/</string>
+
+</resources>

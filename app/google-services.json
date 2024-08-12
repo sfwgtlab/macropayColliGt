@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358651279884",
+    "project_id": "macropay-b2b31",
+    "storage_bucket": "macropay-b2b31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358651279884:android:ac1c5df556be32b96f4c29",
+        "android_client_info": {
+          "package_name": "com.eduardocolli.Macropay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGFrta6PkyI0C1CRXHN7fVVv2LkrCDNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
